@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+
+body {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    background-color: #fcfcfc;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+input[type='text'], input[type='email'], input[type='password'] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
